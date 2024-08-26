@@ -3,8 +3,8 @@
 ScrollReveal({ 
   reset: true,
   distance:'60px',
-  duration:2000,
-  delay:280 
+  duration:1000,
+  delay:150 
  });
  
  ScrollReveal().reveal('.top-banner', { delay: 150,origin:'top' });
