@@ -7,30 +7,30 @@ ScrollReveal({
   delay:400 
  });
  
- ScrollReveal().reveal('.top-banner', { delay: 500,origin:'top' });
- ScrollReveal().reveal('.left-text', { delay: 500,origin:'right' });
- ScrollReveal().reveal('.right-img', { delay: 500,origin:'top' });
- ScrollReveal().reveal('#shop', { delay: 500,origin:'left', interval: 200 });
- ScrollReveal().reveal('.box', { delay: 500,origin:'top' ,interval:200 });
- ScrollReveal().reveal('#Product', { delay: 500,origin:'top' });
- ScrollReveal().reveal('.content3', { delay: 500,origin:'bottom' });
- ScrollReveal().reveal('.content-3-text', { delay: 500,origin:'left' });
- ScrollReveal().reveal('.content-3-right-img', { delay: 500,origin:'right' });
+ ScrollReveal().reveal('.top-banner', { delay: 300,origin:'top' });
+ ScrollReveal().reveal('.left-text', { delay: 300,origin:'right' });
+ ScrollReveal().reveal('.right-img', { delay: 300,origin:'top' });
+ ScrollReveal().reveal('#shop', { delay: 300,origin:'left', interval: 200 });
+ ScrollReveal().reveal('.box', { delay: 300,origin:'top' ,interval:200 });
+ ScrollReveal().reveal('#Product', { delay: 300,origin:'top' });
+ ScrollReveal().reveal('.content3', { delay: 300,origin:'bottom' });
+ ScrollReveal().reveal('.content-3-text', { delay: 300,origin:'left' });
+ ScrollReveal().reveal('.content-3-right-img', { delay: 300,origin:'right' });
  
 
 
- ScrollReveal().reveal('.content-img-first-line2', { delay: 500,origin:'right' });
- ScrollReveal().reveal('.nav-link', { delay: 400,origin:'top' });
- ScrollReveal().reveal('#handi', { delay: 500,origin:'top' });
- ScrollReveal().reveal('.content-img-first-line', { delay: 500,origin:'left' });
- ScrollReveal().reveal('.content-img-first-line1', { delay: 500,origin:'left' });
- ScrollReveal().reveal('.content-img-first-line2', { delay: 500,origin:'right' });
- ScrollReveal().reveal('.content5-1', { delay: 500,origin:'left' });
- ScrollReveal().reveal('.content5-2', { delay: 500,origin:'right' });
- ScrollReveal().reveal('.content5-3', { delay: 500,origin:'left' });
- ScrollReveal().reveal('.content5-4', { delay: 500,origin:'right' });
- ScrollReveal().reveal('.company-text', { delay: 500,origin:'left' });
- ScrollReveal().reveal('.line', { delay: 500,origin:'left' });
+ ScrollReveal().reveal('.content-img-first-line2', { delay: 300,origin:'right' });
+ ScrollReveal().reveal('.nav-link', { delay: 300,origin:'top' });
+ ScrollReveal().reveal('#handi', { delay: 300,origin:'top' });
+ ScrollReveal().reveal('.content-img-first-line', { delay: 300,origin:'left' });
+ ScrollReveal().reveal('.content-img-first-line1', { delay: 300,origin:'left' });
+ ScrollReveal().reveal('.content-img-first-line2', { delay: 300,origin:'right' });
+ ScrollReveal().reveal('.content5-1', { delay: 300,origin:'left' });
+ ScrollReveal().reveal('.content5-2', { delay: 300,origin:'right' });
+ ScrollReveal().reveal('.content5-3', { delay: 300,origin:'left' });
+ ScrollReveal().reveal('.content5-4', { delay: 300,origin:'right' });
+ ScrollReveal().reveal('.company-text', { delay: 300,origin:'left' });
+ ScrollReveal().reveal('.line', { delay: 300,origin:'left' });
 
 
 window.onload = function(){
